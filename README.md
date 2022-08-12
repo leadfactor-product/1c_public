@@ -303,7 +303,9 @@ ___
 ### 2.7 Сохранение соответствия полей:
 Запрос:
 > POST: /sync/clients_contacts_save_fields
+
 > POST: /sync/clients_companies_save_fields
+
 > POST: /sync/leads_save_fields
 ```
 {
