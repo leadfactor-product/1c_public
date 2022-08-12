@@ -309,7 +309,8 @@ ___
 {
     "key": id аккаунта amoCRM (обязательный),
     "id_base": id базы 1C (обязательный),
-    *передаваемые поля*
+    "inn_*id поля в amoCRM*": null // только для "clients_companies_save_fields"
+    "p_*id поля в amoCRM*": null
 }
 ```
 Ответ:
